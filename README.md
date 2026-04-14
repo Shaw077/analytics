@@ -1,4 +1,4 @@
-# Rahul | Data Analytics Portfolio
+# Analytics Portfolio | Rahul
 
 Professional portfolio repository showcasing analytics, machine learning, and BI dashboard projects.
 
