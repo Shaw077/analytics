@@ -1,10 +1,10 @@
 # Analytics Portfolio | Rahul
 
-Professional portfolio repository showcasing analytics, machine learning, and BI dashboard projects.
+Data analyst portfolio showcasing analytics, machine learning, and BI dashboard projects.
 
 ## About Me
 
-I am a data analytics enthusiast focused on turning raw data into actionable insights through:
+I am a data analyst focused on turning raw data into actionable insights through:
 
 - Exploratory data analysis (EDA)
 - Machine learning model development
@@ -69,4 +69,6 @@ My resume is available here: [Rahul_Resume.pdf](assets/resume/Rahul_Resume.pdf)
 
 ## Contact
 
-- Update this section with your email, LinkedIn, and GitHub profile links for best visibility.
+- Email: [rx15715@gmail.com](mailto:rx15715@gmail.com)
+- LinkedIn: [rahul-shaw-1706b2211](https://www.linkedin.com/in/rahul-shaw-1706b2211/)
+- GitHub: [Shaw077](https://github.com/Shaw077)

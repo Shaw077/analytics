@@ -25,6 +25,6 @@ Data analyst focused on solving business problems with analytics, machine learni
 
 ## Connect
 
-- LinkedIn: `add-link`
-- GitHub: `add-link`
-- Email: `add-email`
+- LinkedIn: [rahul-shaw-1706b2211](https://www.linkedin.com/in/rahul-shaw-1706b2211/)
+- GitHub: [Shaw077](https://github.com/Shaw077)
+- Email: [rx15715@gmail.com](mailto:rx15715@gmail.com)
