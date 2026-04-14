@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Walmart Power BI dashboard overview</title>
+  <desc id="desc">A schematic overview of the Power BI report structure showing two pages and the major visual types detected in the report file.</desc>
+  <rect width="1200" height="720" fill="#f5f7fb"/>
+  <text x="60" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">Walmart Power BI Report Overview</text>
+  <text x="60" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#4b5563">Schematic preview generated from the report structure in the .pbix file</text>
+
+  <rect x="60" y="150" width="500" height="500" rx="22" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <text x="90" y="195" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#111827">Page 1</text>
+  <text x="90" y="223" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Main analytics dashboard</text>
+
+  <rect x="90" y="255" width="90" height="70" rx="12" fill="#dbeafe"/>
+  <rect x="195" y="255" width="90" height="70" rx="12" fill="#dbeafe"/>
+  <rect x="300" y="255" width="90" height="70" rx="12" fill="#dbeafe"/>
+  <rect x="405" y="255" width="90" height="70" rx="12" fill="#dbeafe"/>
+  <text x="123" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1d4ed8">KPI</text>
+  <text x="228" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1d4ed8">KPI</text>
+  <text x="333" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1d4ed8">KPI</text>
+  <text x="438" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1d4ed8">KPI</text>
+
+  <rect x="90" y="350" width="220" height="110" rx="14" fill="#dcfce7"/>
+  <text x="125" y="412" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#166534">Line Chart</text>
+
+  <rect x="330" y="350" width="165" height="110" rx="14" fill="#fee2e2"/>
+  <text x="355" y="405" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#b91c1c">Bubble Chart</text>
+
+  <rect x="90" y="485" width="180" height="120" rx="14" fill="#ede9fe"/>
+  <text x="132" y="548" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#6d28d9">Radar Chart</text>
+
+  <rect x="290" y="485" width="205" height="120" rx="14" fill="#fef3c7"/>
+  <text x="322" y="548" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#92400e">Decomposition</text>
+  <text x="363" y="575" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#92400e">Tree</text>
+
+  <rect x="640" y="150" width="500" height="500" rx="22" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <text x="670" y="195" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#111827">Page 2</text>
+  <text x="670" y="223" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Supporting comparison page</text>
+
+  <rect x="690" y="270" width="400" height="260" rx="18" fill="#ede9fe"/>
+  <polygon points="890,315 960,355 935,430 845,430 820,355" fill="#c4b5fd"/>
+  <polygon points="890,345 925,365 912,405 868,405 855,365" fill="#8b5cf6"/>
+  <text x="812" y="575" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#5b21b6">Radar Chart</text>
+
+  <text x="60" y="690" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Detected visual types in report: 4 KPI cards, 1 line chart, 1 packed bubble chart, 2 radar charts, 1 table, 1 decomposition tree, plus layout and navigation elements.</text>
+</svg>

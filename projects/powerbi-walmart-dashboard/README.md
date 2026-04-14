@@ -12,11 +12,28 @@ Business users need a simple way to monitor performance, review trends, and filt
 
 Create an interactive Power BI dashboard to track Walmart business performance and support quick stakeholder review.
 
+## Preview
+
+![Walmart dashboard overview](dashboard-overview.svg)
+
+This is a schematic preview generated from the report structure inside the `.pbix` file. It is not a screenshot, but it reflects the report layout and major visual types detected in the project.
+
 ## Dashboard Focus
 
 - KPI-driven view of business performance
 - Interactive filters and drilldown support
 - Category and trend-level insights for decision making
+- Multi-page report structure for summary and supporting views
+
+## Report Structure
+
+- 2 report pages
+- 4 KPI card visuals
+- 1 line chart
+- 1 packed bubble chart
+- 2 radar charts
+- 1 table
+- 1 decomposition tree
 
 ## Skills Demonstrated
 
@@ -33,6 +50,7 @@ Create an interactive Power BI dashboard to track Walmart business performance a
 ## Deliverable
 
 - `capstone.pbix`
+- `dashboard-overview.svg`
 
 ## Business Value
 

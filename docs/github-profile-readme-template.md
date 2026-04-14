@@ -4,9 +4,12 @@
 
 Data analyst focused on converting raw data into insights, dashboards, and model-driven business decisions.
 
+I enjoy working on projects that combine analysis, business understanding, and practical communication of results.
+
 ## Skills
 
 - Python
+- Pandas and NumPy
 - Power BI
 - Data Cleaning and EDA
 - Machine Learning
@@ -18,6 +21,12 @@ Data analyst focused on converting raw data into insights, dashboards, and model
 - [Walmart Sales Forecasting](../projects/walmart-sales-forecasting)
 - [Netflix Recommendation System](../projects/netflix-recommendation-system)
 - [Walmart Power BI Dashboard](../projects/powerbi-walmart-dashboard)
+
+## Highlights
+
+- Forecasting workflow for Walmart weekly sales analysis
+- Collaborative filtering recommendation system using SVD
+- Interactive Power BI dashboard for business performance review
 
 ## Resume
 

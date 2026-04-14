@@ -68,6 +68,7 @@ Project highlights:
 Deliverables:
 - [Project folder](projects/powerbi-walmart-dashboard)
 - [Power BI file](projects/powerbi-walmart-dashboard/capstone.pbix)
+- [Dashboard overview](projects/powerbi-walmart-dashboard/dashboard-overview.svg)
 
 ## Resume
 
