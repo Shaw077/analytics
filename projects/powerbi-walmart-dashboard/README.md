@@ -4,13 +4,13 @@
 
 Business Intelligence | Data Visualization | Dashboarding
 
+## Business Problem
+
+Business users need a simple way to monitor performance, review trends, and filter metrics without reading raw datasets.
+
 ## Objective
 
-Create an interactive Power BI dashboard to track Walmart business performance and key metrics.
-
-## Files
-
-- `capstone.pbix`
+Create an interactive Power BI dashboard to track Walmart business performance and support quick stakeholder review.
 
 ## Dashboard Focus
 
@@ -18,9 +18,21 @@ Create an interactive Power BI dashboard to track Walmart business performance a
 - Interactive filters and drilldown support
 - Category and trend-level insights for decision making
 
+## Skills Demonstrated
+
+- Business intelligence reporting
+- Dashboard design
+- KPI presentation
+- Interactive filtering
+- Stakeholder-focused visualization
+
 ## Tools
 
 - Microsoft Power BI
+
+## Deliverable
+
+- `capstone.pbix`
 
 ## Business Value
 

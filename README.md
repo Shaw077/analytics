@@ -1,71 +1,77 @@
-# Analytics Portfolio | Rahul
+# Rahul Shaw | Data Analyst Portfolio
 
-Data analyst portfolio showcasing analytics, machine learning, and BI dashboard projects.
+Data analyst focused on turning business data into clear insights, predictive models, and decision-ready dashboards.
 
-## About Me
+This repository highlights hands-on work in exploratory data analysis, forecasting, recommendation systems, and Power BI reporting. Each project folder includes the original deliverable and a short case-study style summary.
 
-I am a data analyst focused on turning raw data into actionable insights through:
+## Professional Summary
 
-- Exploratory data analysis (EDA)
-- Machine learning model development
-- Recommendation systems
-- Interactive dashboarding with Power BI
+- Role: Data Analyst
+- Focus Areas:
+  - Exploratory Data Analysis (EDA)
+  - Machine Learning for forecasting and recommendation
+  - KPI reporting and dashboard design
+  - Business-oriented data storytelling
 
-My resume is available here: [Rahul_Resume.pdf](assets/resume/Rahul_Resume.pdf)
+## Core Tools
+
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- scikit-learn
+- scikit-surprise
+- Power BI
 
 ## Featured Projects
 
-### 1. Walmart Sales Forecasting (Machine Learning)
+### 1. Walmart Sales Forecasting
 
-- Folder: [projects/walmart-sales-forecasting](projects/walmart-sales-forecasting)
-- Notebook: `Walmart_Capstone_ProjectRahul.ipynb`
-- Focus:
-  - Sales prediction with supervised learning workflow
-  - `train_test_split` based model evaluation
-  - Error metrics including `MAE` and `RMSE`
+Business problem:
+Estimate weekly sales and understand how store-level and economic variables affect retail performance.
 
-### 2. Netflix Recommendation System (Machine Learning)
+Project highlights:
+- Analyzed a Walmart retail dataset with 6,435 records across 45 stores
+- Worked with variables including `Weekly_Sales`, `Holiday_Flag`, `Temperature`, `Fuel_Price`, `CPI`, and `Unemployment`
+- Explored store performance, sales trends, and correlations with unemployment and CPI
+- Built a train-test split forecasting workflow and evaluated results using `MAE` and `RMSE`
 
-- Folder: [projects/netflix-recommendation-system](projects/netflix-recommendation-system)
-- Notebook: `Rahul_Netflix.ipynb`
-- Focus:
-  - Large-scale user-movie rating analysis
-  - Matrix factorization using `SVD` (Surprise library)
-  - Cross-validation with `RMSE` evaluation
+Deliverables:
+- [Project folder](projects/walmart-sales-forecasting)
+- [Notebook](projects/walmart-sales-forecasting/Walmart_Capstone_ProjectRahul.ipynb)
 
-### 3. Walmart Power BI Dashboard (Business Intelligence)
+### 2. Netflix Recommendation System
 
-- Folder: [projects/powerbi-walmart-dashboard](projects/powerbi-walmart-dashboard)
-- File: `capstone.pbix`
-- Focus:
-  - Business KPI and performance visualization
-  - Interactive slicing/filtering for stakeholder reporting
+Business problem:
+Identify user preference patterns from large-scale ratings data and evaluate a recommendation approach for movie suggestions.
 
-## Repository Structure
+Project highlights:
+- Cleaned and transformed customer-rating data into a usable recommender format
+- Built analytical columns for `Cust_id`, `Rating`, and `Movie_ID`
+- Explored customer counts, movie counts, and rating distributions
+- Trained a collaborative filtering model using `SVD` from the Surprise library
+- Evaluated the model with cross-validation and RMSE in the notebook workflow
 
-```text
-.
-|-- assets/
-|   `-- resume/
-|       `-- Rahul_Resume.pdf
-|-- projects/
-|   |-- walmart-sales-forecasting/
-|   |   |-- README.md
-|   |   `-- Walmart_Capstone_ProjectRahul.ipynb
-|   |-- netflix-recommendation-system/
-|   |   |-- README.md
-|   |   `-- Rahul_Netflix.ipynb
-|   `-- powerbi-walmart-dashboard/
-|       |-- README.md
-|       `-- capstone.pbix
-`-- README.md
-```
+Deliverables:
+- [Project folder](projects/netflix-recommendation-system)
+- [Notebook](projects/netflix-recommendation-system/Rahul_Netflix.ipynb)
 
-## How Recruiters Can Review Quickly
+### 3. Walmart Power BI Dashboard
 
-1. Start with this README for project summaries.
-2. Open each project `README.md` for objectives, approach, and tools.
-3. Open notebooks and dashboard file for implementation details.
+Business problem:
+Present Walmart business performance in a format that is easy for stakeholders to review and act on.
+
+Project highlights:
+- Built an interactive Power BI dashboard for performance tracking
+- Focused on KPI visibility, filtering, and business-friendly reporting
+- Structured the dashboard for quick operational review and trend analysis
+
+Deliverables:
+- [Project folder](projects/powerbi-walmart-dashboard)
+- [Power BI file](projects/powerbi-walmart-dashboard/capstone.pbix)
+
+## Resume
+
+- [Rahul_Resume.pdf](assets/resume/Rahul_Resume.pdf)
 
 ## Contact
 

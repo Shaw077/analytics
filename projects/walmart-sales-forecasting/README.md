@@ -4,21 +4,36 @@
 
 Machine Learning | Regression | Retail Analytics
 
+## Business Problem
+
+Retail teams need to understand why some stores perform better than others and how operational and economic indicators influence weekly sales.
+
 ## Objective
 
-Build a data-driven workflow to analyze Walmart retail data and forecast weekly sales trends.
+Build a data-driven workflow to analyze Walmart store performance and estimate weekly sales using numerical business features.
 
-## Files
+## Dataset Snapshot
 
-- `Walmart_Capstone_ProjectRahul.ipynb`
+- Approx. 6,435 records
+- 45 stores
+- 143 dates
+- Main fields:
+  - `Weekly_Sales`
+  - `Holiday_Flag`
+  - `Temperature`
+  - `Fuel_Price`
+  - `CPI`
+  - `Unemployment`
 
-## Highlights
+## Workflow
 
-- Data preprocessing and exploratory analysis
-- Train-test split model pipeline (`train_test_split`)
-- Performance evaluation using:
-  - Mean Absolute Error (MAE)
-  - Root Mean Squared Error (RMSE)
+- Loaded and inspected store-level sales data
+- Explored distributions and outliers in weekly sales
+- Compared top-performing and worst-performing stores
+- Analyzed how unemployment and CPI relate to store performance
+- Prepared numerical features to predict `Weekly_Sales`
+- Split the data with `train_test_split`
+- Evaluated model performance using `MAE` and `RMSE`
 
 ## Tools and Libraries
 
@@ -28,6 +43,18 @@ Build a data-driven workflow to analyze Walmart retail data and forecast weekly 
 - Matplotlib
 - Seaborn
 - scikit-learn
+
+## Skills Demonstrated
+
+- Exploratory data analysis
+- Retail performance analysis
+- Feature preparation
+- Regression workflow design
+- Model evaluation
+
+## Deliverable
+
+- `Walmart_Capstone_ProjectRahul.ipynb`
 
 ## Business Value
 

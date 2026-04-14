@@ -2,16 +2,16 @@
 
 ## About Me
 
-Data analyst focused on solving business problems with analytics, machine learning, and dashboarding.
+Data analyst focused on converting raw data into insights, dashboards, and model-driven business decisions.
 
 ## Skills
 
 - Python
-- SQL
 - Power BI
 - Data Cleaning and EDA
 - Machine Learning
 - Recommendation Systems
+- Data Visualization
 
 ## Featured Work
 
